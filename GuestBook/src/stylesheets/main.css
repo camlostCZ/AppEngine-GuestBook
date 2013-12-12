@@ -1,0 +1,25 @@
+body {
+  font-family: Verdana, Helvetica, sans-serif;
+  background-color: #DDDDDD;
+}
+
+.Greeting {
+	border: solid black 2px;
+	margin-bottom: 0.4em;
+	background-color: #EEEEEE;
+}
+
+.Author {
+	padding: 0.2em 1em 0.2em 2em;
+	border-bottom: dashed black 1px;
+	background-color: #CCCCCC;
+}
+
+.Author .Name {
+	color: blue;
+	font-weight: bold;
+}
+
+.Greeting blockquote {
+	
+}
